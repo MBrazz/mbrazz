@@ -1,4 +1,4 @@
-### Welcome! I'm Mateus Braz 👋
+### Olá! Eu sou o Mateus 👋
 
 <!--
 **MBrazz/mbrazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Java
+- 🌱 Estou aprendendo a tocar violão e programar em java.
+- 🏓 Meus hobbys são tênis de mesa, xadrez e assistir séries.
 
 <div>
   <a href="https://github.com/MBrazz">
