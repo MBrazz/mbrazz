@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 Estou aprendendo a tocar violão e programar em java.
-- 🏓 Meus hobbys são tênis de mesa, xadrez e assistir séries.
+- 🏓 Meus hobbys são tênis de mesa, xadrez e estudar inglês.
 
 <div>
   <a href="https://github.com/MBrazz">
