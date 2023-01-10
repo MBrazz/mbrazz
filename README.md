@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 Estou aprendendo as teorias do design, javascript e react. 
+- 🌱 No momento estou aprendendo javascript. 
 - 🏓 Meus hobbys são tênis de mesa, xadrez e programação.
 
 <div>
